@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --open --hot",
+    "heroku-prebuild": "npm install --dev",
     "build": "webpack --mode production"
   },
   "keywords": [],
