@@ -5,7 +5,7 @@ import TableContent from './TableContent';
 import './App.scss';
 
 const tr = { fontSize: '20px' };
-class DrugSearchField2 extends React.Component {
+class DrugSearchField extends React.Component {
   constructor(){
     super();
     this.state={
@@ -63,4 +63,4 @@ class DrugSearchField2 extends React.Component {
     )
   }
 }
-export default DrugSearchField2;
+export default DrugSearchField;

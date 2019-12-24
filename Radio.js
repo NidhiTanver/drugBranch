@@ -1,8 +1,6 @@
 import React from 'react';
 import axios from 'axios';
 import ReactDOM from 'react-dom';
-import RadioField from './RadioField';
-import RadioField22 from './RadioField22';
 import DrugSearchField from './DrugSearchField';
 import DrugSearchField2 from './DrugSearchField2';
 import './App.scss';
